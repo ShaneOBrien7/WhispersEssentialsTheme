@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+    <name>Custom PrestaShop Theme</name>
+    <version>1.0.0</version>
+    <author>Your Name</author>
+    <meta>
+        <compatibility>
+            <from>1.7.0.0</from>
+            <to>1.7.x.x</to>
+        </compatibility>
+    </meta>
+    <assets>
+        <css>
+            <file>assets/css/style.css</file>
+        </css>
+        <js>
+            <file>assets/js/script.js</file>
+        </js>
+    </assets>
+</theme>
